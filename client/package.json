@@ -2,8 +2,8 @@
   "name": "todo-mern-graphql-docker-client",
   "version": "1.0.0",
   "main": "src/index.js",
-  "repository": "https://github.com/davedevx/todo-mern-graphql-docker",
-  "author": "davedevx (https://github.com/davedevx)",
+  "repository": "https://github.com/iamdave86/todo-mern-graphql-docker",
+  "author": "iamdave86 (https://github.com/iamdave86)",
   "dependencies": {
     "@apollo/client": "^3.5.6",
     "@chakra-ui/react": "^1.7.3",
